@@ -1,7 +1,7 @@
 ### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is **Muhammad Osmma** as known as **xamQrexii**. 
+My name is **Muhammad Osmma** as known as **xamQrexii**. I have more than 4 and a half years of experience in JavaScript Full-Stack development.
 
 Here are some ideas to get you started:
 
