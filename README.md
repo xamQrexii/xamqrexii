@@ -3,11 +3,11 @@
 
 My name is **Muhammad Osama** as known as **xamQrexii**.
 
-I am JavaScript Full-Stack DevOps Engineers having more than 4.5 years of experience.
+I am JavaScript Full-Stack DevOps Engineer having more than 4.5 years of experience.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working for Nisum[https://www.nisum.com]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
