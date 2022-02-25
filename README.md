@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World 👋
 
 
-**xamQrexii/xamqrexii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Muhammad Osmma as known as xamQrexii**
 
 Here are some ideas to get you started:
 
