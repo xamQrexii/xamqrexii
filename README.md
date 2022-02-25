@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-**My name is Muhammad Osmma as known as xamQrexii**
+My name is **Muhammad Osmma** as known as **xamQrexii**
 
 Here are some ideas to get you started:
 
