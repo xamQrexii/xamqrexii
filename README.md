@@ -13,14 +13,16 @@ I have trained more than 1K studetns successfully 🥳
 
 <h1></h1>
 
-🔭 I’m currently working for: 
+<h3>🔭 I’m currently working for</h3>
+
+
   - [Nisum](https://www.nisum.com) as a Software Engineer, developing large e-commerce platforms and enterprise applications with MERN, PERN, MEVN, PEVN, Unit Testing with JEST, and Automations Testing with Testcafe and DevOps technologies.
   - [PIAIC](https://www.piaic.org/) Presidential Initiative for Artificial Intelligence and Computing as a Cloud Native Computing Trainer, teaching HTML5, CSS3, JavaScript, MERN Stack, Linux, Docker and Kubernetes.
 
 🌱 I’m currently learning microservices, micro-frontends and design system 🚀
 <h1></h1>
 
-<h3>Technologies and toosl I code with</h3>
+<h3>Technologies and tools I code with</h3>
 
 
 <p>
