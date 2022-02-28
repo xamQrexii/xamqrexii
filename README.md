@@ -87,7 +87,7 @@ I was learning Kubernetes back in 2019, and delopyed the application successfull
 <h1></h1>
 
 
-<h3>⚡ Fun fact</h3>
+<h3>⚡ Fun facts</h3>
 
 I am an angler 🎣, foodie and traveller.
 
