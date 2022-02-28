@@ -66,9 +66,9 @@ I have trained more than 1K studetns successfully 🥳
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0033b0?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-0033b0?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0033b0?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0033b0?style=flat-square&logo=Kubernetes&logoColor=white" />
-  
   
  
   
