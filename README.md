@@ -79,7 +79,7 @@ I have trained more than 1K studetns successfully 🥳
 <h1></h1>
 <h3>☁️ DevOps and Kubernetes Cluster in House</h3>
 
-I was learning Kubernetes back in 2019, and delopyed the application successfully to GKE (Google Kuberneted Enginer), then I decided to make in-house Kubernetes cluster for bare-metal cloud experience. I picked up 4 Raspberry Pi computers, connected them through local network, installed the Kubernetes on them and created K8s cluster. Three of them were worker nodes and one was master node. Then I deployed the React app on it and served successfully.
+I was learning Kubernetes back in 2019, and delopyed the application successfully to GKE (Google Kubernetes Enginer), then I decided to make in-house Kubernetes cluster for bare-metal cloud experience. I picked up 4 Raspberry Pi computers, connected them through local network, installed the Kubernetes on them and created K8s cluster. Three of them were worker nodes and one was master node. Then I deployed the React app on it and served successfully.
 
 
 
