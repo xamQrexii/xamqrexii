@@ -7,7 +7,7 @@ My name is **Muhammad Osama** also known as **xamQrexii** 🧑‍💻
 I am a JavaScript Full-Stack Engineer, DevOps Engineer, also Cloud Native Computing Trainer ✨
 I have trained more than 1K students successfully 🥳
 
-* 💻 JavaScript Full-Stack Development - More than 4.5 years of experience
+* 💻 JavaScript Full-Stack Development - More than 5 years of experience
 * ☁️ DevOps Engineering - More than 2 years of experience
 * 🎓 Cloud Native Computing Trainer - More than 2.5 years of experience
 
